@@ -1,0 +1,50 @@
+.analysis-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+}
+
+.upload-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px dashed #ccc;
+  padding: 2rem;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+.upload-label:hover {
+  border-color: #4f46e5;
+}
+
+.image-preview img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.biomarker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.biomarker-card {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.severity-indicator {
+  height: 8px;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+.severity-normal { background: #10b981; }
+.severity-mild { background: #f59e0b; }
+.severity-moderate { background: #f97316; }
+.severity-severe { background: #ef4444; }
