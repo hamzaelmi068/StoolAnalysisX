@@ -41,7 +41,9 @@
    ```
    
 3. **📊 Health Insights & Recommendations**  
-   - Receive personalized health insights and track progress over time.  
+   - Receive personalized health insights and track progress over time.
+   - ![image](https://github.com/user-attachments/assets/256689cd-aa59-4938-8f79-7ffc572aedd0)
+
 
 ---
 
