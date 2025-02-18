@@ -21,7 +21,9 @@ React Router (for page navigation)
 date-fns (for date formatting)
 Lucide React (for icons) -->
 
-![image](https://github.com/user-attachments/assets/eaa46ae6-ed35-48ec-9034-2e17910d35ae)
+<!--![image](https://github.com/user-attachments/assets/eaa46ae6-ed35-48ec-9034-2e17910d35ae)-->
+![image](https://github.com/user-attachments/assets/9d28144b-6bf2-4d31-8974-fa7318c690cb)
+
 
 ---
 
