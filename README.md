@@ -1,5 +1,25 @@
 # StoolHealthAnalyzer 💩→🏥  
 **AI-Powered Digestive Health Insights Through Visual Analysis**  
+<!-- Backend:
+
+Language: Python
+Framework: FastAPI (for building the API endpoints)
+Key Libraries:
+Pydantic (for data validation and serialization)
+Databutton SDK (for storage and secrets management)
+Google's Gemini API (for AI image analysis)
+
+Frontend:
+Language: TypeScript
+Framework: React
+Key Technologies/Libraries:
+Vite (build tool and development server)
+Tailwind CSS (for styling)
+Shadcn/ui (for UI components)
+Zustand (for state management)
+React Router (for page navigation)
+date-fns (for date formatting)
+Lucide React (for icons) -->
 
 ![image](https://github.com/user-attachments/assets/eaa46ae6-ed35-48ec-9034-2e17910d35ae)
 
