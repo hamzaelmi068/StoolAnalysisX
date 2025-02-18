@@ -62,7 +62,10 @@ Lucide React (for icons) -->
    
 3. **📊 Health Insights & Recommendations**  
    - Receive personalized health insights and track progress over time.
-   - ![image](https://github.com/user-attachments/assets/256689cd-aa59-4938-8f79-7ffc572aedd0)
+   - ![image](https://github.com/user-attachments/assets/b0e9c7ee-7948-4733-adb1-9e0662a8b65c)
+   <!-- ![image](https://github.com/user-attachments/assets/256689cd-aa59-4938-8f79-7ffc572aedd0) -->
+
+
 
 
 ---
