@@ -22,15 +22,18 @@ date-fns (for date formatting)
 Lucide React (for icons) -->
 
 <!--![image](https://github.com/user-attachments/assets/eaa46ae6-ed35-48ec-9034-2e17910d35ae)-->
-![image](https://github.com/user-attachments/assets/9d28144b-6bf2-4d31-8974-fa7318c690cb)
+![image](https://github.com/user-attachments/assets/6b442e25-b63d-4bf7-9e8f-5324d6fc4b37)
+
 
 
 ---
 
 ## ✨ Key Features  
 **From Data to Digestive Insights**  
+![image](https://github.com/user-attachments/assets/4e0d035b-e76b-43db-8728-37b48d0a3faa)
+![image](https://github.com/user-attachments/assets/762f4fd8-e265-43ea-8615-4dfad729e7d4)
 
-![image](https://github.com/user-attachments/assets/e08eb964-7739-461e-87e4-73190678909e)
+
 
 - **🚀 Instant AI Analysis** – Get real-time assessments of stool characteristics.  
 - **📊 Health Timeline** – Track changes in digestive health over time.  
