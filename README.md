@@ -23,7 +23,7 @@ Lucide React (for icons) -->
 
 <!--![image](https://github.com/user-attachments/assets/eaa46ae6-ed35-48ec-9034-2e17910d35ae)-->
 ![image](https://github.com/user-attachments/assets/6b442e25-b63d-4bf7-9e8f-5324d6fc4b37)
-[Watch the demo video here](https://github.com/user-attachments/assets/0116edd1-b65b-44eb-9561-08292a791924)
+[Watch the demo video here!](https://github.com/user-attachments/assets/0116edd1-b65b-44eb-9561-08292a791924)
 
 
 
