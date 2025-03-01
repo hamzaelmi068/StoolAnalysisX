@@ -9,7 +9,7 @@ Pydantic (for data validation and serialization)
 SDK (for storage and secrets management)
 Google's Gemini API (for AI image analysis)
 
-Frontend:
+--Frontend:
 Language: TypeScript
 Framework: React
 Key Technologies/Libraries:
